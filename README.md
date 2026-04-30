@@ -17,7 +17,7 @@ My passion is minecraft modding and I like coding within 1.20.1 fabric in kotlin
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[vaaw](https://github.com/TheV0ided0ne/void-s-artifacts-and-weapons)** | Content mod that is based upon the show 'Into The Multiverse'
+| **[vaaw](https://github.com/TheV0ided0ne/void-s-artifacts-and-weapons)** | Active (30%) | Content mod that is based upon the show 'Into The Multiverse'
 
 ### Credits
 nuxl0x for the readme inspiration
