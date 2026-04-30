@@ -3,10 +3,9 @@
 My passion is minecraft modding and I like coding within 1.20.1 fabric in kotlin code. I usually either focus on my mod 'VAAW' or my rougelite within python coding.
 
 ---
-
 ### Primary Coding Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools Used
 ![Fabric](https://img.shields.io/badge/Fabric-F8F8F8?style=for-the-badge&logo=fabric&logoColor=333)
