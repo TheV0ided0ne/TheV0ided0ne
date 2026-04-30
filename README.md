@@ -1,16 +1,23 @@
-## Hi there 👋
+## TheV0ided0ne / VoidedVA
+# Minecraft Modder | Kotlin and Python Programmer
+My passion is minecraft modding and I like coding within 1.20.1 fabric in kotlin code. I usually either focus on my mod 'VAAW' or my rougelite within python coding.
 
-<!--
-**TheV0ided0ne/TheV0ided0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Primary Coding Languages
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools Used
+![Fabric](https://img.shields.io/badge/Fabric-F8F8F8?style=for-the-badge&logo=fabric&logoColor=333)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Featured Projects
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[vaaw](https://github.com/TheV0ided0ne/void-s-artifacts-and-weapons)** | Content mod that is based upon the show 'Into The Multiverse'
+
+### Credits
+nuxl0x for the readme inspiration
