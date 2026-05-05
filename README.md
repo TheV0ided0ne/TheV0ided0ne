@@ -2,7 +2,7 @@
 # Minecraft Modder | Kotlin and Python Programmer
 My passion is minecraft modding and I like coding within 1.20.1 fabric in kotlin code. I usually either focus on my mod 'VAAW' or my rougelite within python coding.
 
-Single and okay...
+Taken and emo as shit
 
 Coding keeps my mind off of the bad things that happen to me
 
